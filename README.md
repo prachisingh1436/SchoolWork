@@ -1,5 +1,6 @@
 # Learning Technology Studio<br /><br />
-<h2><u>First Project <br /></u></h2>
-Learning Tableau and implementing it on a data set to get some analysis.<br /><br />
-<h2><u>Second Project <br /></u></h2> Making a database management project implementing SQL.<br /><br />
-<h2><u>Third Project <br /></u></h2> Front end development. Make a website for a non-profit organization.<br />
+<h2><u>First Project : Tableau<br /></u></h2>
+<h3>Goals</h3><br />Learning Tableau and implementing it on a data set to get some meaningful insights and analysis.<br />
+<h3>Materials</h3><br />I would be using tutorials and other training videos available on Tableau's websites and be a Forum's and user groups in case of issues and doubts.<br /><br />
+<h2><u>Second Project : SQL<br /></u></h2> <br /><h3>Goals</h3><br />Making a database management project implementing SQL.<h3>Materials</h3><br /><br /><br />
+<h2><u>Third Project : 3-D Printing<br /></u></h2> Learn 3-D printing<br />
