@@ -7,7 +7,7 @@ I am enrolled in Prof. Howison's Technology Learning Studio class for which I am
 <h2><u>Second Project : SQL<br /></u></h2> <h3>Goals</h3>Making a database management project implementing SQL.
 <h3>Materials</h3>
 I am auditing Prof. Howison's Data Wrangling classes on Tueasdays and Thursdays at 10:30 to indulge myself in a peer learning for this project. I am going to use and refer to <a href="https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/">Mode SQL Tutorial</a> and <a href="https://www.w3schools.com/sql/">W3 Schools</a> while I am working on my project for help. <br /><br />
-<h2><u>Third Project : 3-D Printing<br /></u></h2> <h3>Goals</h3>Learn 3-D printing and modelling. I will make a mechanical clock using 3 d printing.
+<h2><u>Third Project : 3-D Printing<br /></u></h2> <h3>Goals</h3>Learn 3-D printing and modelling. I will make a mechanical clock or a 3-d puzzle using 3-d printing techniques.
 <h3>Materials</h3>I am going to be using <a href="https://www.shapeways.com/tutorials">Shapeways</a> and 
 <a href="http://3dprintingforbeginners.com">3d Printing for Beginners</a> to learn from 3d software tutorials. I will be auditing Prof Riley's class on Wednesdays at 12 PM to learn better about 3d printing and modelling.<br /><br />
 
