@@ -21,8 +21,8 @@ I took an example data set with 5 datapoints and implemented all sorts of charts
 
 I expanded my dataset to the ideal scenario of comparing current growth to the expected growth. When I was trying to implement that, my biggest chalenge was to make it most readible and comprehended. The easiest options were not the best one as they plotting it above one another or next to each other as the below screenshot. 
 <img src="https://user-images.githubusercontent.com/31910791/30676934-70ac643a-9e4e-11e7-9304-68800d57c975.png"><br /><br />
-After seeing a lot of blogs and videos, I learnt the feature of Dual axis and the synchronization of the axes, it was easier to see the comparision. 
-<img src="https://user-images.githubusercontent.com/31910791/30676940-76883870-9e4e-11e7-83d7-757f39cdcdc6.png"><br /><br /> On Sychronization
+After seeing a lot of blogs and videos, I learnt the feature of Dual axis and the synchronization of the axes, it was easier to see the comparision. <br /><br /> 
+<img src="https://user-images.githubusercontent.com/31910791/30676940-76883870-9e4e-11e7-83d7-757f39cdcdc6.png"><br /><br /> On Sychronization<br /><br /> 
 <img src="https://user-images.githubusercontent.com/31910791/30676944-788d156e-9e4e-11e7-923b-b140682bae3e.png"><br /><br /> 
 Though I still felt that having the dual axis (though synchronized) is not a very good interpretation. Then I discovered a trick to get rid of the 2 axes and combine it in one depicting it by 2 different colors. 
 <img src="https://user-images.githubusercontent.com/31910791/30676947-7a439a18-9e4e-11e7-9872-202d53088224.png"><br /><br /> 
