@@ -55,7 +55,7 @@ I blended the data from the 2 different datsets associating each other with the 
 
 <img src="https://user-images.githubusercontent.com/31910791/31151805-e1b24630-a85e-11e7-91cb-707aa20be8c3.png">
 
-&emsp; &emsp; <center>Number of Hurricanes that occured vs Average Land Temperature in that year.</center><br><br>
+&nbsp; &nbsp; <center>Number of Hurricanes that occured vs Average Land Temperature in that year.</center><br><br>
 
 <img src="https://user-images.githubusercontent.com/31910791/31151801-dcaefe80-a85e-11e7-8f37-a12385fcf23c.png">
 
