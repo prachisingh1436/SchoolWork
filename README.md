@@ -30,3 +30,6 @@ Though I still felt that having the dual axis (though synchronized) is not a ver
 Since I had an idea about how to use the tool, I wanted to learn how to make the most of it. So I went through this amazing document which talked about which charts to use while showcasing different types of data for best interpretation. It was a good source which was very informative and induced great ideas while reading. Hope you guys find it as useful as I did.
 <br /><br /> 
 The other learning source that I used to understand the data available better and better get results was a video tutorial on Coursera on Data Visualization using Tableau. It talked about understanding how to look at the data from the point of answering questions. It first requires you to ask the right set of questions to get the best and expected results.<br /><br /> 
+
+When I started working with the datasets I had considered working with, I realized that the dataset was not complete and not very recent data. I decided to change my project and started looking at data related to Climate change. I got my data from Data.world which had data from reliable Organizations. I am going to analyze if there is an increase in the number of Hurricanes with the increase in the average land temperature. <br /><br /> 
+<h2><u>Week 4<br /></u></h2>
