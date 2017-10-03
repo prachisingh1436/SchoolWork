@@ -55,11 +55,11 @@ I blended the data from the 2 different datsets associating each other with the 
 
 <img src="https://user-images.githubusercontent.com/31910791/31151805-e1b24630-a85e-11e7-91cb-707aa20be8c3.png">
 
-<center>Number of Hurricanes that occured vs Average Land Temperature in that year.<br><br>
+<center>Number of Hurricanes that occured vs Average Land Temperature in that year.</center><br><br>
 
 <img src="https://user-images.githubusercontent.com/31910791/31151801-dcaefe80-a85e-11e7-8f37-a12385fcf23c.png">
 
-Average Wind Speed of the hurricanes vs Average Land Temperature in that year.</center><br><br>
+<center>Average Wind Speed of the hurricanes vs Average Land Temperature in that year.</center><br><br>
 
 Analysis:It mostly looks like the chances of occurances of hurricanes is inversely to increase in average temperautre. Though a direct impact is not visible, maybe there are more than one factors that impact on the occurances which are accountable for the deviations and irregularities.<br><br>
 
