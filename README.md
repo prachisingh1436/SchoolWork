@@ -33,3 +33,7 @@ The other learning source that I used to understand the data available better an
 
 When I started working with the datasets I had considered working with, I realized that the dataset was not complete and not very recent data. I decided to change my project and started looking at data related to Climate change. I got my data from Data.world which had data from reliable Organizations. I am going to analyze if there is an increase in the number of Hurricanes with the increase in the average land temperature. <br /><br /> 
 <h2><u>Week 4<br /></u></h2>
+Finding the right and complete dataset is the first and foremost step but definitely the easiest. Despite being complete, cleaning and manipulation of data are very important before we start visualizing it. Equally important is standardization of data especially if we are dealing with multiple datasets.
+<br> <br>
+I picked my data from 2 different sources, first was a time series data of average minimum temperature, average maximum temperature, and average temperature. The other dataset had information about several hurricanes trackings. The various attributes about the hurricanes that were recorded were its movement latitude longitude wise with date and time, its wind speed, pressure, length of shape, etc.
+<br> <br>
