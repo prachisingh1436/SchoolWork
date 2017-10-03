@@ -47,3 +47,8 @@ Some of the visualizations built out of the processed data are below.<Br><br>
 <img src="https://user-images.githubusercontent.com/31910791/31114573-606286a0-a7e4-11e7-90a5-5676cc01edce.png"><br /><br />
   <img src="https://user-images.githubusercontent.com/31910791/31114571-5ed5ec64-a7e4-11e7-9ceb-3dd12608f586.png"><br /><br />
   <img src="https://user-images.githubusercontent.com/31910791/31114578-633ac658-a7e4-11e7-880c-be44de3295b8.png"><br /><br />
+<h2><u>Final result<br /></u></h2>
+
+With the data I had, I couldn't show that the number of hurricanes has increased with the increase in the increase in average temperature. Maybe the problem statement was wrong as it was based on an assumption that there is a direct impact of the former on the later. The below results show the relation between the average land temperature and the number of Hurricanes that occur in the year.<br><br>
+
+As soon as I get the chance I would like to explore the map charts of Tableau. It is an amazing feature to display regional data.
