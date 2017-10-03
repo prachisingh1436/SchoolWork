@@ -44,6 +44,6 @@ Since the granularity of data in the hurricane dataset was a lot more as it was 
 <br><br>
 Since the granularity of data in the hurricane dataset was a lot more as it was tracking the movements of the hurricane with the change in location. I had to group together and apply mean on the values and grouping by the name of the Hurricane. On getting the final dataset, I could observe some irregularities. Some of the values of the year were in decimals which were absurd as there are very rare chances for most of them to move for months or arise at the end of the year. After filtering the raw data in the excel sheets by names, I discovered that several names were repeated to name different hurricanes after a time span of 15-20 years. So I made name year pairs then applied the mean and then again segregated them back into the two original columns. <br><br>
 Some of the visualizations built out of the processed data are below.<Br><br>
-<img src="https://user-images.githubusercontent.com/31910791/30676947-7a439a18-9e4e-11e7-9872-202d53088224.png"><br /><br />
-  <img src="https://user-images.githubusercontent.com/31910791/30676947-7a439a18-9e4e-11e7-9872-202d53088224.png"><br /><br />
-  <img src="https://user-images.githubusercontent.com/31910791/30676947-7a439a18-9e4e-11e7-9872-202d53088224.png"><br /><br />
+<img src="https://user-images.githubusercontent.com/31910791/31114573-606286a0-a7e4-11e7-90a5-5676cc01edce.png"><br /><br />
+  <img src="https://user-images.githubusercontent.com/31910791/31114571-5ed5ec64-a7e4-11e7-9ceb-3dd12608f586.png"><br /><br />
+  <img src="https://user-images.githubusercontent.com/31910791/31114578-633ac658-a7e4-11e7-880c-be44de3295b8.png"><br /><br />
