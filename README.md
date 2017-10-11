@@ -27,7 +27,7 @@ After seeing a lot of blogs and videos, I learnt the feature of Dual axis and th
 Though I still felt that having the dual axis (though synchronized) is not a very good interpretation. Then I discovered a trick to get rid of the 2 axes and combine it in one depicting it by 2 different colors. 
 <img src="https://user-images.githubusercontent.com/31910791/30676947-7a439a18-9e4e-11e7-9872-202d53088224.png"><br /><br /> 
 <h2><u>Week 3<br /></u></h2>
-Since I had an idea about how to use the tool, I wanted to learn how to make the most of it. So I went through this amazing document which talked about which charts to use while showcasing different types of data for best interpretation. It was a good source which was very informative and induced great ideas while reading. Hope you guys find it as useful as I did.
+Since I had an idea about how to use the tool, I wanted to learn how to make the most of it. So I went through this amazing document which talked about which charts to use while showcasing different types of data for best interpretation. It was a good source which was very informative and induced great ideas while reading. The link to the document is https://www.tableau.com/sites/default/files/media/which_chart_v6_final_0.pdf. Hope you guys find it as useful as I did.
 <br /><br /> 
 The other learning source that I used to understand the data available better and better get results was a video tutorial on Coursera on Data Visualization using Tableau. It talked about understanding how to look at the data from the point of answering questions. It first requires you to ask the right set of questions to get the best and expected results.<br /><br /> 
 
