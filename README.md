@@ -64,3 +64,6 @@ I blended the data from the 2 different datsets associating each other with the 
 Analysis:It mostly looks like the chances of occurances of hurricanes is inversely to increase in average temperautre. Though a direct impact is not visible, maybe there are more than one factors that impact on the occurances which are accountable for the deviations and irregularities.<br><br>
 
 As soon as I get the chance I would like to explore the map charts of Tableau. It is an amazing feature to display regional data.
+<br><br>
+<h2><u>Learning from the learning blogs<br /></u></h2>
+Peer review was an amazing experience for me. It helped me analyze other's blogs and realize how mine was different than theirs. Now I feel I will be able to write a little better blog. I didn't have any experience of writing blogs, so I was scared of writing one in the first place and use to procrastinate. And getting a review back critiquing about my entries not being personal, took me one step back. But I have decided to take it positively and learn, from the blogs that I have read so far, to write better. So my final learning outcome of this course is to be a better blogger! And I will require everybody's help in doing so because of all the comments matter, good or bad!<br><br>
