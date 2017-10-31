@@ -97,3 +97,12 @@ MODE' tutorial: Directly shows an example of the query <br><br>
 The showing of steps helps in building the thinking process and makes it easier to understand. He used to build the concept of JOIN using the other basic commands with which we were already comfortable. Understanding Group By was made way easier by his explanation of understanding the results of Order by and then transforming it to Group By.  <br><br>
 <img src="https://user-images.githubusercontent.com/31910791/32251771-7cb3f41e-be60-11e7-831c-7b75060d4e82.png">
 <br><br>
+
+<h2><u>Perks of using the two sources<br /></u></h2>
+There was distinctly a different style in both the sources. Mode was trying to approach a bottom to top approach trying to build all the basic concepts before. With all the example in place, it helped get a grasp on the usage of those concepts one after the other and trying examples and seeing results and then trying the problems and comparing answers.<br><br>
+
+The class material focussed on understanding the concepts of the tables first. It concentrated on getting the value of data integration between multiple tables rather than just running the queries to see how they perform. Applying the basic commands on the joined tables built a sense answering the questions asked using the relationships between different tables in a database. It brought about a sense of backward thinking linking the data.
+<br><br>
+
+One of the things I and Prof. Howison discussed learning about JOINs was using the visuals of Venn Diagram. It was very well depicted in the tutorial from MODE. It also showed how the Left Join and the Right Join were similar and can replace each other.
+<br><br>
