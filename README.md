@@ -94,3 +94,6 @@ Prof. Howison's Class Material: Shows intermediate steps<br><br>
 MODE' tutorial: Directly shows an example of the query <br><br>
 <img src="https://user-images.githubusercontent.com/31910791/32251240-2a2ff546-be5e-11e7-84a4-7403248d1df6.png">
 <br><br>
+The showing of steps helps in building the thinking process and makes it easier to understand. He used to build the concept of JOIN using the other basic commands with which we were already comfortable. Understanding Group By was made way easier by his explanation of understanding the results of Order by and then transforming it to Group By.  <br><br>
+<img src="https://user-images.githubusercontent.com/31910791/32251771-7cb3f41e-be60-11e7-831c-7b75060d4e82.png">
+<br><br>
