@@ -88,3 +88,9 @@ After attaining my basic goal and close to completing my stretched goal, I was e
 Some of the basic differences that I could notice was between the syntax. Initially, I assumed it was because I was working with SQL and the class was based on MySQL, but I later realized that the syntax used in the class notes worked ModeSQL's editor as well. Some of the differences I noticed was double quotes being used instead of single quotes for strings and columns being referred by tableName.columnName rather than just the column name in all queries even where JOINs were not involved.<br><br>
 One of the biggest issues that I noticed with MODE after going through the class material was it was missing some of the basic commands of CRUD (Create, Read, Update and Delete). MODE concentrated only on Read, the reason for it may be that the databases were already created and they did not want the users of the tutorial to update the tables with junk data or insert any new data or delete any tables.<br><br>
 I found some great stuff in Prof. Howison's class material which helped in better understanding some of the basics which were a small part but very essential for right implementation. The boolean operators are used in different places while writing queries and understanding its combinations and the different impacts of exchanging or changing the order of these operators are very important. The understanding of truth values and how they are evaluated is equally important. I loved his style of showing intermediate steps.<br><br>
+Prof. Howison's Class Material: Shows intermediate steps<br><br>
+<img src="https://user-images.githubusercontent.com/31910791/32251233-261bd682-be5e-11e7-9595-97fd9f65ee09.png">
+<br><br>
+MODE' tutorial: Directly shows an example of the query <br><br>
+<img src="https://user-images.githubusercontent.com/31910791/32251240-2a2ff546-be5e-11e7-84a4-7403248d1df6.png">
+<br><br>
