@@ -122,7 +122,7 @@ I did not ever think that it would be this tough for me to work with Blender as 
 I decided to use my time in the class today to at least try something before I arrange for everything that I need for myself. So I borrowed a mouse from the IT Lab and started working. The first issue was I wasn't very comfortable using the mouse very much as I have got used to of the trackpads. The second issue was my assumption that I just did not have the right resources which were obstructing my progress. <br><br>
 
 I had several bad attempts at making a simple cup. I had to restart several times and when I finally thought I made progress, I realized how bad the attempt was. The software is very sensitive to clicks so even without realizing you tend to make a lot of modifications. You realize that only when you start rotating your object in different directions because seeing it as a 2-D object you might have it all right. I thought of adding a snapshot of my attempt so far.<br><br>
-<br><br>
+
 This is how it was suppose to look:
 <br><br>
 <img src="https://user-images.githubusercontent.com/31910791/32298806-4842e39a-bf21-11e7-8d6d-3cb47b8cca06.png">
