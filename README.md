@@ -123,7 +123,12 @@ I decided to use my time in the class today to at least try something before I a
 
 I had several bad attempts at making a simple cup. I had to restart several times and when I finally thought I made progress, I realized how bad the attempt was. The software is very sensitive to clicks so even without realizing you tend to make a lot of modifications. You realize that only when you start rotating your object in different directions because seeing it as a 2-D object you might have it all right. I thought of adding a snapshot of my attempt so far.<br><br>
 <br><br>
-This is how it was supp
+This is how it was suppose to look:
 <br><br>
+<img src="https://user-images.githubusercontent.com/31910791/32298806-4842e39a-bf21-11e7-8d6d-3cb47b8cca06.png">
+<br><br>
+This is how mine turned out(which is so embarrassing):
+<br><br>
+<img src="https://user-images.githubusercontent.com/31910791/32298803-433fbf12-bf21-11e7-87a1-9d04ea2773a4.png">
 <br><br>
 This entire episode was very demotivating and my frustration didn't allow me to give it another try. I am going to use a different software name Auto-tinker or use a different set of tutorials, both of which were suggested by my fellow mates at my class.<br><br>
