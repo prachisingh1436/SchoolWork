@@ -115,3 +115,15 @@ It also showed how the Left Join and the Right Join were similar and can replace
 
 I was successfully able to complete my Stretched goal and by now have a good understanding about most of the concepts related to SQL. Though I am still interested in knowing the other thngs that were there in Advanced section of MODE especially because it was associated with analytics. So maybe over the winter break, I will go back and finish that last section of SQL in MODE.
 And I am excited for my next project for 3-d printing which I would begin with this week's class.<br><br>
+
+<h2><u>Beginning of 3-D Modelling<br /></u></h2>
+I did not ever think that it would be this tough for me to work with Blender as I have previous experience of working with the Adobe Illustrator. But it was way tougher. I began with the basic installation of the blender software and decided to use Youtube videos in making basic models for beginners. As soon as the video began I realized I didn't have an essential part of this process which was a mouse. I still decided to go ahead and see the entire video to understand how much is the usage of the mouse. And then I realized that I even needed a keyboard with the right set of numbers for ease of working. 
+<br><br>
+I decided to use my time in the class today to at least try something before I arrange for everything that I need for myself. So I borrowed a mouse from the IT Lab and started working. The first issue was I wasn't very comfortable using the mouse very much as I have got used to of the trackpads. The second issue was my assumption that I just did not have the right resources which were obstructing my progress. <br><br>
+
+I had several bad attempts at making a simple cup. I had to restart several times and when I finally thought I made progress, I realized how bad the attempt was. The software is very sensitive to clicks so even without realizing you tend to make a lot of modifications. You realize that only when you start rotating your object in different directions because seeing it as a 2-D object you might have it all right. I thought of adding a snapshot of my attempt so far.<br><br>
+<br><br>
+This is how it was supp
+<br><br>
+<br><br>
+This entire episode was very demotivating and my frustration didn't allow me to give it another try. I am going to use a different software name Auto-tinker or use a different set of tutorials, both of which were suggested by my fellow mates at my class.<br><br>
