@@ -104,5 +104,10 @@ There was distinctly a different style in both the sources. Mode was trying to a
 The class material focussed on understanding the concepts of the tables first. It concentrated on getting the value of data integration between multiple tables rather than just running the queries to see how they perform. Applying the basic commands on the joined tables built a sense answering the questions asked using the relationships between different tables in a database. It brought about a sense of backward thinking linking the data.
 <br><br>
 
-One of the things I and Prof. Howison discussed learning about JOINs was using the visuals of Venn Diagram. It was very well depicted in the tutorial from MODE. It also showed how the Left Join and the Right Join were similar and can replace each other.
+One of the things I and Prof. Howison discussed learning about JOINs was using the visuals of Venn Diagram. It was very well depicted in the tutorial from MODE. It also showed how the Left Join and the Right Join were similar and can replace each other. So using two different sources got the best of both to me.
 <br><br>
+
+<h2><u>Wrapping Up<br /></u></h2>
+
+I was successfully able to complete my Stretched goal and by now have a good understanding about most of the concepts related to SQL. Though I am still interested in knowing the other thngs that were there in Advanced section of MODE especially because it was associated with analytics. So maybe over the winter break, I will go back and finish that last section of SQL in MODE.
+And I am excited for my next project for 3-d printing which I would begin with this week's class.<br><br>
