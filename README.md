@@ -104,7 +104,11 @@ There was distinctly a different style in both the sources. Mode was trying to a
 The class material focussed on understanding the concepts of the tables first. It concentrated on getting the value of data integration between multiple tables rather than just running the queries to see how they perform. Applying the basic commands on the joined tables built a sense answering the questions asked using the relationships between different tables in a database. It brought about a sense of backward thinking linking the data.
 <br><br>
 
-One of the things I and Prof. Howison discussed learning about JOINs was using the visuals of Venn Diagram. It was very well depicted in the tutorial from MODE. It also showed how the Left Join and the Right Join were similar and can replace each other. So using two different sources got the best of both to me.
+One of the things I and Prof. Howison discussed learning about JOINs was using the visuals of Venn Diagram. It was very well depicted in the tutorial from MODE. <br><br>
+<img src="https://user-images.githubusercontent.com/31910791/32256484-4cb519a6-be7d-11e7-88a0-66a05287d3ee.png">
+<br><br>
+It also showed how the Left Join and the Right Join were similar and can replace each other. So using two different sources got the best of both to me.<br><br>
+<img src="https://user-images.githubusercontent.com/31910791/32256487-50784fb8-be7d-11e7-9679-8e48bdb96789.png">
 <br><br>
 
 <h2><u>Wrapping Up<br /></u></h2>
