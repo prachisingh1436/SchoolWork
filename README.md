@@ -151,4 +151,7 @@ I tried to make some very shapes and fiddled around with them. I was super happy
 <br><br>
 <h2><u>Minion in the making<br /></u></h2>
 I decided to try my first print as the minion. Prof. Walker's help in understanding the setup of the 3-d printers and importance of the material as well its other parts played a very important role in my first print. The first realization was that a multicolor print was not possible but this plastic gets coated with acrylic paint very easily so I decided to print my entire minion yellow and later use paints to make it look like a minion. <br><br>
-Working on this project opened my mind to 3-d visualizations quite a lot. Even the print made me realize that my model needed supports to get printed from bottom to top in so many places which I hadn't noticed while making them. It started printing very nicely then it started getting spoilt which was very discouraging. Though I soon realized that the fans near the nozzle were off because of which the molten plastic was dripping. 
+Working on this project opened my mind to 3-d visualizations quite a lot. Even the print made me realize that my model needed supports to get printed from bottom to top in so many places which I hadn't noticed while making them. It started printing very nicely then it started getting spoilt which was very discouraging. Though I soon realized that the fans near the nozzle were off because of which the molten plastic was dripping. But at this point, I am glad that I put the supports and though a little out of shape but a figure is getting printed.
+<br><br>
+<img src="https://user-images.githubusercontent.com/31910791/33228257-54c3c0f4-d17c-11e7-9121-79b184ac3d70.JPG">
+<br><br>
