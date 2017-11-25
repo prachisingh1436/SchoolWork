@@ -142,4 +142,10 @@ I have finally decided to use TinkerCAD, an Autodesk product, next to try out si
 This has been a very tedious experience for me so far but I am very happy to come across TinkerCAD. It is definitely very user-friendly, especially changing the angle of the view which helps me keep track of the symmetry. There are all the standard options for controlling the movements in the 3-d space in the left corner of the screen. <br><br>
 <img src="https://user-images.githubusercontent.com/31910791/33227881-6fa37d32-d173-11e7-9980-8006691cf676.png">
 <br><br>
-It helps me choose the basic views from different x, y, and z-axis angles and super easy to zoom in and zoom out and all of this just with the touchpad. 
+It helps me choose the basic views from different x, y, and z-axis angles and super easy to zoom in and zoom out and all of this just with the touchpad. I tried the basic tutorials that were available on the signing up of the software which helped develop a good sense of working with the software.
+<br><br>
+I tried to make some very shapes and fiddled around with them. I was super happy to finally have some symmetric models. on moving one step forward I decided to follow steps of a youtube video to make a Minion(Banana..!). Though I assumed it is such a simple capsule like character, it was tougher to make it. After a few steps, I started developing my own steps which gave me a sense of happiness. After 3 hours, I finally had my model ready, it had some errors but at this point, I was still very proud of myself.<br><br>
+<img src="https://user-images.githubusercontent.com/31910791/33227882-71aabfd2-d173-11e7-8ac6-8294defe729a.png">
+<br><br>
+<img src="https://user-images.githubusercontent.com/31910791/33227883-73aa2728-d173-11e7-98f4-d17aa076ecb4.png">
+<br><br>
