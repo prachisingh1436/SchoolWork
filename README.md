@@ -155,3 +155,7 @@ Working on this project opened my mind to 3-d visualizations quite a lot. Even t
 <br><br>
 <img src="https://user-images.githubusercontent.com/31910791/33228257-54c3c0f4-d17c-11e7-9121-79b184ac3d70.JPG">
 <br><br>
+
+The next step after the endless wait for the print to complete is giving it the finishing touch. You need to get rid of all the supports which break off very easily but the tougher part is scrubbing to remove the extra protruding with sandpaper to give it smooth edges. After doing as much as I could we have our minion ready to get dressed in the paint. Yayy.. <br><br>
+<img src="https://user-images.githubusercontent.com/31910791/33228258-568efb06-d17c-11e7-86dc-d053f9043623.JPG">
+<br><br>
