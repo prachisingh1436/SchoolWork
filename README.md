@@ -132,3 +132,12 @@ This is how mine turned out(which is so embarrassing):
 <img src="https://user-images.githubusercontent.com/31910791/32298803-433fbf12-bf21-11e7-87a1-9d04ea2773a4.png">
 <br><br>
 This entire episode was very demotivating and my frustration didn't allow me to give it another try. I am going to use a different software name Auto-tinker or use a different set of tutorials, both of which were suggested by my fellow mates at my class.<br><br>
+<h2><u>My second attempt at 3D Modelings<br /></u></h2>
+After a terrible first shot at 3D modeling and a good long break, I decided to try using the blender again. As suggested by others, I decided to do the simple course in Lynda for practice. Even with the mouse, it was still tough and a lot of the commands which could have been done using the normal keyboard became tedious as you had to find those commands on the toolbars. After a few more frustrated attempts with blender, which is just not MAC friendly, I decided to try other softwares.
+<br><br>
+I wanted to use a more user-friendly tool so I decided to look at Youtube videos of 3D modeling using different softwares before I jump into another mess. When you look at these videos, they seem so simple and when you really have to do those things yourself, it just seems impossible in the beginning. Out of my 3 learning modules, this has been the toughest. This might be because this is the only one that needs you to use your imagination and PATIENCE. Every wrong move has a consequence which you realize at the end of the process.
+<br><br>
+I have finally decided to use TinkerCAD, an Autodesk product, next to try out simple models. <br><br>
+<h2><u>My second attempt at 3D Modelings<br /></u></h2>
+This has been a very tedious experience for me so far but I am very happy to come across TinkerCAD. It is definitely very user-friendly, especially changing the angle of the view which helps me keep track of the symmetry. <br><br>
+<img src="https://user-images.githubusercontent.com/31910791/33227881-6fa37d32-d173-11e7-9980-8006691cf676.png">
