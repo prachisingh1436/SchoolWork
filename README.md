@@ -139,5 +139,7 @@ I wanted to use a more user-friendly tool so I decided to look at Youtube videos
 <br><br>
 I have finally decided to use TinkerCAD, an Autodesk product, next to try out simple models. <br><br>
 <h2><u>My second attempt at 3D Modelings<br /></u></h2>
-This has been a very tedious experience for me so far but I am very happy to come across TinkerCAD. It is definitely very user-friendly, especially changing the angle of the view which helps me keep track of the symmetry. <br><br>
+This has been a very tedious experience for me so far but I am very happy to come across TinkerCAD. It is definitely very user-friendly, especially changing the angle of the view which helps me keep track of the symmetry. There are all the standard options for controlling the movements in the 3-d space in the left corner of the screen. <br><br>
 <img src="https://user-images.githubusercontent.com/31910791/33227881-6fa37d32-d173-11e7-9980-8006691cf676.png">
+<br><br>
+It helps me choose the basic views from different x, y, and z-axis angles and super easy to zoom in and zoom out and all of this just with the touchpad. 
