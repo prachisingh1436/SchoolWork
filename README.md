@@ -169,3 +169,17 @@ If you see very closely the below picture, you will be able to notice the differ
 <img src="https://user-images.githubusercontent.com/31910791/33306091-916503e0-d3d6-11e7-98f9-0d5e9baf756b.png">
 <br><br>
 Though the model was ready, I couldn't try a print during today's class as my minion was still printing and the other printers were busy. I wanted to print the different pieces in different colors to distinguish between them. A setback was that we did not have any printers at this moment in our lab to accomplish it. I decided to split the model into 2 and print on different printers using different colors but TinkerCad did not have the feature for me to do so. So I decided to print them together and use paint again. But I so want to see what other softwares had to offer for splitting the models. I think I had pretty less time on this module to figure out everything but I will surely explore later.<br><br>
+<h2><u>The Snowman<br /></u></h2>
+The modeling was very smooth but I was still apprehensive about getting the measurements right for the pieces to fit in. But I guess I had bigger issues to address this time. With each print, it is getting more difficult for me to understand the 3-D printer which is super frustrating. I had to give multiple prints and each of them were different from the previous one. They even varied from printer to printer. Some of the pictures from my prints are below. <br><br>
+<img src="https://user-images.githubusercontent.com/31910791/33306803-96fa8214-d3d9-11e7-9b87-4aacf90c0885.JPG">
+<br><br>
+<img src="https://user-images.githubusercontent.com/31910791/33306805-9853cc9c-d3d9-11e7-9ec8-12bc937bd350.JPG">
+<br><br>
+<img src="https://user-images.githubusercontent.com/31910791/33306817-a66f76d2-d3d9-11e7-83d5-aa8e63a78312.JPG">
+<br><br>
+<img src="https://user-images.githubusercontent.com/31910791/33306821-a998aac2-d3d9-11e7-8c28-d89d4b9ae419.JPG">
+<br><br>
+I guess the most irritating part of this module was not to be able to figure out why something was happening, the way it was happening. By the end of 5 prints, it was a puzzle for me to figure out how use the pieces to make one complete snowman. So I picked up the best different pieces from all the prints and smoothened the shapes for the the pieces to fit in each other. I finally painted my Snowman because I did not want it to have yellow hands. And here it is..<br><br>
+<img src="https://user-images.githubusercontent.com/31910791/33307411-fd38a2ac-d3db-11e7-990c-d6efd0dae67e.JPG">
+<br><br>
+I have decided to continue 3-D modeling, though it is frustrating, it has come up as a challenge and I want to have one perfect model and print! 
