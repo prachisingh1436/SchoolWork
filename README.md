@@ -159,3 +159,9 @@ Working on this project opened my mind to 3-d visualizations quite a lot. Even t
 The next step after the endless wait for the print to complete is giving it the finishing touch. You need to get rid of all the supports which break off very easily but the tougher part is scrubbing to remove the extra protruding with sandpaper to give it smooth edges. After doing as much as I could we have our minion ready to get dressed in the paint. Yayy.. <br><br>
 <img src="https://user-images.githubusercontent.com/31910791/33228258-568efb06-d17c-11e7-86dc-d053f9043623.JPG">
 <br><br>
+<h2><u>Working on the stretched goal<br /></u></h2>
+My stretched goal for this module was to either make a mechanical clock or a 3-D puzzle using 3-D printing. I decided to make a very simple 3-D puzzle seeing my past experience. I built my model on the holiday theme(very Christmasy), a snowman. I made the snowman's hat and hands separately to try entangling basic shapes of puzzle pieces. I got the inspiration from <a href ="https://www.youtube.com/watch?v=j40uXQlm7TA"> 3-D Snowman maze puzzle</a> and built my puzzle on it. <br><br>
+My model was a very simple model with the different pieces as shown in the below picture.<br>
+<br>
+<img src="https://user-images.githubusercontent.com/31910791/33306094-93660ffe-d3d6-11e7-9306-588253ad63d5.png">
+<br><br>
