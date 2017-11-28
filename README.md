@@ -180,6 +180,6 @@ The modeling was very smooth but I was still apprehensive about getting the meas
 <img src="https://user-images.githubusercontent.com/31910791/33306821-a998aac2-d3d9-11e7-8c28-d89d4b9ae419.JPG">
 <br><br>
 I guess the most irritating part of this module was not to be able to figure out why something was happening, the way it was happening. By the end of 5 prints, it was a puzzle for me to figure out how use the pieces to make one complete snowman. So I picked up the best different pieces from all the prints and smoothened the shapes for the the pieces to fit in each other. I finally painted my Snowman because I did not want it to have yellow hands. And here it is..<br><br>
-<img src="https://user-images.githubusercontent.com/31910791/33307411-fd38a2ac-d3db-11e7-990c-d6efd0dae67e.JPG">
+<img src="https://user-images.githubusercontent.com/31910791/33307452-28b92c6c-d3dc-11e7-9fad-8a09f39439a2.JPG">
 <br><br>
 I have decided to continue 3-D modeling, though it is frustrating, it has come up as a challenge and I want to have one perfect model and print! 
