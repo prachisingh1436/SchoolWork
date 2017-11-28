@@ -165,3 +165,6 @@ My model was a very simple model with the different pieces as shown in the below
 <br>
 <img src="https://user-images.githubusercontent.com/31910791/33306094-93660ffe-d3d6-11e7-9306-588253ad63d5.png">
 <br><br>
+If you see very closely the below picture, you will be able to notice the different spaces for the arms and the hat's base to get inserted.<br><br>
+<img src="https://user-images.githubusercontent.com/31910791/33306091-916503e0-d3d6-11e7-98f9-0d5e9baf756b.png">
+<br><br>
